@@ -10,4 +10,4 @@ This design enables a fast, secure, and hardware-free alternative to conventiona
 
 The key innovation lies in combining NFC-based identity confirmation with internal, app-contained balance shifting. This enables realistic peer-to-peer tap transactions while maintaining legal and architectural simplicity. It empowers developers and testers to create fully functioning mock-fintech experiences — and potentially, with further security infrastructure, evolve into a real-world peer payment product.
 
-A PostgreSQL database hosted in Docker, with a FastAPI backend and a Kotlin-based mobile development stack. Good job on reading all that :)
+A PostgreSQL database hosted in Docker, with a FastAPI backend and a Kotlin-based mobile development stack. You read all that? Good boy ;)
